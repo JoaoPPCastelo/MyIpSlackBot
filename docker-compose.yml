@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+    slack_myip:
+        image: slack_myip
+        build: .
+        environment:
+            - SLACK_WEBHOOK_URL=
+            - HOSTNAME=
+            - TIMER=
+        restart: always
