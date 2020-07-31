@@ -1,3 +1,5 @@
+![Docker Image CI](https://github.com/JoaoPPCastelo/MyIpSlackBot/workflows/Docker%20Image%20CI/badge.svg)
+
 # Introduction 
 Slack bot to check and share a device's public IP on slack. 
 
